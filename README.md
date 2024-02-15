@@ -3,9 +3,9 @@ Aplicação em node para procurar e criar vagas de emprego.
 
 Este é um projeto Node.js que oferece funcionalidades para buscar vagas de trabalho por texto e criar novas vagas através de um formulário.
 
-![Imagem da aplicação](https://imgur.com/gallery/bpXtaG6)
+![Imagem da aplicação](https://i.imgur.com/X0JjBRs.png)
 
-![Vagas](https://imgur.com/a/aeflAb8)
+![Vagas](https://i.imgur.com/j5x3qKh.png)
 
 ## Como Obter o Projeto
 
