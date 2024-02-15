@@ -3,46 +3,27 @@ Aplicação em node para procurar e criar vagas de emprego.
 
 Este é um projeto Node.js que oferece funcionalidades para buscar vagas de trabalho por texto e criar novas vagas através de um formulário.
 
-![Imagem da aplicação](https://imgur.com/X0JjBRs)
+![Imagem da aplicação](https://imgur.com/gallery/bpXtaG6)
 
-![Vagas](https://imgur.com/j5x3qKh)
+![Vagas](https://imgur.com/a/aeflAb8)
 
+## Como Obter o Projeto
 
+Para obter o projeto em seu ambiente local, você pode seguir estas etapas:
 
-## Configuração do Banco de Dados
+### Clonar o Repositório
 
-O projeto utiliza SQLite como banco de dados. O arquivo do banco de dados está localizado em `./db/app.db`.
+1. Abra o terminal ou prompt de comando.
+2. Navegue até o diretório onde deseja armazenar o projeto.
+3. Execute o seguinte comando para clonar o repositório:
 
-## Instruções de Uso
+```bash
+git clone https://github.com/arthurwg/Job_Finder.git
+```
 
-Siga as etapas abaixo para utilizar o projeto:
-
-### Pré-requisitos
-
-- Node.js instalado no seu sistema
-- Dependências do projeto instaladas (execute `npm install` no diretório do projeto)
-- Banco de dados SQLite configurado (o arquivo `app.db` será criado automaticamente na pasta `./db/`)
-
-### Configuração do Banco de Dados
-
-O projeto utiliza SQLite como banco de dados. Certifique-se de que o banco de dados está configurado corretamente e o arquivo `app.db` está presente na pasta `./db/`.
-
-### Iniciar o Servidor
-
-Para iniciar o servidor, execute o seguinte comando no terminal:
+ou baixe o arquivo .zip.
 
 
-Claro, aqui está o README.md revisado com base nas informações fornecidas:
-
-markdown
-Copy code
-# Projeto Node.js de Busca de Vagas de Trabalho
-
-Este é um projeto Node.js que oferece funcionalidades para buscar vagas de trabalho por texto e criar novas vagas através de um formulário.
-
-## Configuração do Banco de Dados
-
-O projeto utiliza SQLite como banco de dados. O arquivo do banco de dados está localizado em `./db/app.db`.
 
 ## Instruções de Uso
 
@@ -54,9 +35,9 @@ Siga as etapas abaixo para utilizar o projeto:
 - Dependências do projeto instaladas (execute `npm install` no diretório do projeto)
 - Banco de dados SQLite configurado (o arquivo `app.db` será criado automaticamente na pasta `./db/`)
 
-### Configuração do Banco de Dados
+## Configuração do Banco de Dados
 
-O projeto utiliza SQLite como banco de dados. Certifique-se de que o banco de dados está configurado corretamente e o arquivo `app.db` está presente na pasta `./db/`.
+O projeto utiliza SQLite como banco de dados. O arquivo do banco de dados está localizado em `./db/app.db`.
 
 ### Iniciar o Servidor
 
